@@ -1,0 +1,9 @@
+{
+  "exp": "exp4",
+  "description": "EfficientNet-B0 | pretrained=True | freeze=True (feature extraction)",
+  "test_acc": 0.7849,
+  "test_precision": 0.8038,
+  "test_recall": 0.788,
+  "test_f1": 0.7789,
+  "best_val_acc": 0.783
+}

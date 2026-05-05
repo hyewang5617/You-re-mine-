@@ -1,0 +1,9 @@
+{
+  "exp": "exp2",
+  "description": "ResNet-34 | pretrained=True | freeze=False (full fine-tuning)",
+  "test_acc": 0.9501,
+  "test_precision": 0.9462,
+  "test_recall": 0.9525,
+  "test_f1": 0.9457,
+  "best_val_acc": 0.9453
+}

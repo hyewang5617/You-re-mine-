@@ -25,10 +25,11 @@ Pokemon image classification using CNN backbones and transfer learning.
 
 | Exp  | Model          | Test Acc | Precision | Recall | F1   |
 |------|----------------|----------|-----------|--------|------|
-| exp1 | ResNet-34 frozen  | -     | -         | -      | -    |
-| exp2 | ResNet-34 finetune| -     | -         | -      | -    |
-| exp3 | ResNet-34 scratch | -     | -         | -      | -    |
-| exp4 | EfficientNet-B0   | -     | -         | -      | -    |
+| exp1 | ResNet-34 frozen   | 0.8328 | 0.8438 | 0.8392 | 0.8267 |
+| exp2 | ResNet-34 finetune | 0.9501 | 0.9462 | 0.9525 | 0.9457 |
+| exp3 | ResNet-34 scratch  | 0.7439 | 0.7396 | 0.7399 | 0.7198 |
+| exp4 | EfficientNet-B0    | 0.7849 | 0.8038 | 0.7880 | 0.7789 |
+
 
 *Fill in after training.*
 
