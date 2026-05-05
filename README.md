@@ -34,9 +34,6 @@ Pokemon image classification using CNN backbones and transfer learning.
 | exp3 | ResNet-34 scratch  | 0.7439 | 0.7396 | 0.7399 | 0.7198 |
 | exp4 | EfficientNet-B0    | 0.7849 | 0.8038 | 0.7880 | 0.7789 |
 
-
-*Fill in after training.*
-
 ### Learning Curves
 
 | exp1 | exp2 |
