@@ -4,6 +4,10 @@ Pokemon image classification using CNN backbones and transfer learning.
 
 **Dataset:** [7,000 Labeled Pokemon](https://www.kaggle.com/datasets/lantian773030/pokemonclassification) (150 classes, Kaggle)
 
+## Demo
+
+![demo](demo_screenshot.png)
+
 ---
 
 ## Experiments
